@@ -1,2 +1,2 @@
 #!/bin/bash
-mplayer -vo caca StarWarsIV episode
+totem  StarWarsIV
